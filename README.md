@@ -170,26 +170,35 @@ Tamilnadu, India.</h3>
 
 ### Map:
 
-
+![WEBPAGE1](https://user-images.githubusercontent.com/102855266/213872962-7b7d350b-d16f-4cef-9ea9-7a0ffb92e5bf.jpg)
 
 ### Velavan Hyper Market :
 
+![WEBPAGEVELAVAN](https://user-images.githubusercontent.com/102855266/213872979-799ad7f0-bf49-4c9e-ab8d-82559ca08140.jpg)
 
 
 ### Talkies :
 
+![WEBPAGETALKIES](https://user-images.githubusercontent.com/102855266/213872987-583589a1-feb6-42e4-8d6c-ba9237a26c94.jpg)
 
 
 ### Port:
 
+![WEBPAGEPORT](https://user-images.githubusercontent.com/102855266/213872996-71b21a0d-50bc-4301-9580-0c2aec6ef0ee.jpg)
 
 
 ### Tharuvai :
 
 
+![WEBPAGETHARUVAI](https://user-images.githubusercontent.com/102855266/213873007-10081606-22b6-43e1-98a8-ceba7821017d.jpg)
 
 ### Suresh IAS Academy :
 
+![WEBPAGESURESH](https://user-images.githubusercontent.com/102855266/213873002-0dd7253e-83bd-4b78-bdf3-95ce49d31a21.jpg)
+
+### HTML Validator :
+
+![htmlvalidator](https://user-images.githubusercontent.com/102855266/213873027-b111a5ee-8478-4fd5-acda-82b40c7ab2ce.jpg)
 
 
 ## Result:
